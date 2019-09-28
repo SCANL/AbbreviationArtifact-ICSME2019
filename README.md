@@ -29,3 +29,6 @@ If you're interested in modifying the scripts for your own use, you'll need to r
 We would love to keep this repository growing with more abbreviations and expansions and are happy to credit anyone who decides to add to our current set here in the README (we will credit your name/username/webapge or whatever you like). If you'd like to contribute more abbreviations and expansions, just make a pull request either adding your own file from a system we do not include above or modifying the .csv files already included. Just be sure to follow the format. 
 
 You do not need to include the original identifier / split identifier (though if you can, that would be great). You may provide just the abbreviation and expansion, however-- using the format in the .csvs above: (Abbreviation:Expansion).
+
+# Interested in our research?
+**Check out https://scanl.org/**
