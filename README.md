@@ -18,3 +18,14 @@ To run GetIdentifierFileLocations.py, you'll need the wycheproof.java.xml exampl
 3. python3 GetIdentifierFileLocations.py
 
 If you're interested in modifying the scripts for your own use, you'll need to run srcML on whatever system you're interested in. Check out the srcML webpage for information on how to download/install and run srcML: https://www.srcml.org
+
+# Please cite the papers!
+
+1. Christian D. Newman, Michael J. Decker, Reem S. AlSuhaibani, Anthony Peruma, Dishant Kaushik, and Emily Hill, “An empirical study of abbreviations and expansions in software artifacts,” in Proceedings of the 35th IEEE International Conference on Software Maintenance, IEEE, 2019.
+
+2. Christian D. Newman, Michael J. Decker, Reem S. AlSuhaibani, Anthony Peruma, Dishant Kaushik, and Emily Hill, “An Open Dataset of Abbreviations and Expansions,” in Proceedings of the 35th IEEE International Conference on Software Maintenance, IEEE, 2019.
+
+# Feel free to contribute!
+We would love to keep this repository growing with more abbreviations and expansions and are happy to credit anyone who decides to add to our current set here in the README (we will credit your name/username/webapge or whatever you like). If you'd like to contribute more abbreviations and expansions, just make a pull request either adding your own file from a system we do not include above or modifying the .csv files already included. Just be sure to follow the format. 
+
+You do not need to include the original identifier / split identifier (though if you can, that would be great). You may provide just the abbreviation and expansion, however-- using the format in the .csvs above: (Abbreviation:Expansion).
